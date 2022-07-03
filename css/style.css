@@ -25,10 +25,11 @@
     padding: 10px;
 }
 .blog h1{
-    color: rgb(255, 255, 255);
-    background: linear-gradient(to right, #009933 0%, #ff3300 100%);
-    border-left: 2px solid rgb(255, 0, 0);
-    border-right: 2px solid rgb(9, 255, 0);
+    color: rgb(66, 66, 66);
+    background: linear-gradient(to right, #bebebe 0%, #ffffff 100%);
+    border-left: 2px solid rgb(189, 189, 189);
+    border-right: 2px solid rgb(189, 189, 189);
+    border-bottom:2px solid rgb(189, 189, 189);
     border-radius: 20px;
     padding: 4px 10px;
     width: fit-content;
