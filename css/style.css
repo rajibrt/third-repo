@@ -3,10 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+.page{
+    background-color: rgb(228, 228, 228);
+    margin: 0px 0px 0px 0px;
+    padding: 20px 40px 20px 40px;
+}
 
 .blog{
-    background-color: rgb(252, 247, 188);
+    background-color: rgb(255, 255, 255);
     padding: 6px 10px 6px 10px;
     margin: 20px 60px 0px 60px;
     border: 2px solid black;;
